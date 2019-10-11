@@ -1,0 +1,3 @@
+medidorPlacaSolar.py --> Programa que enregistra la informació que es rep de la placa solar.
+config.py --> Modifica els parametres per l'enregistrament de l'infomració
+sensorLlum.py --> Programa que enregistra la informació que es rep del sensor de llum.
